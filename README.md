@@ -40,4 +40,5 @@ The urls of the project are:
 
 * As the project shouldn't go to production, the secret key stays there, but the good practice is to trust only in environment variables (with .env for example);
 * I maded the project using sqlite as it's a small project, for big project I recommend SQL;
-* I used Bootstrap to style the project.
+* I used Bootstrap to style the project;
+* Lastly, I really recommend the FastAPI framework for this kind of task! But that it's! Enjoy!!
