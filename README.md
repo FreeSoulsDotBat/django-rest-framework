@@ -1,6 +1,6 @@
 # django-rest-framework
  
- ### Hello everybody, let's jump in the tutorial!
+### Hello everybody, let's jump in the tutorial!
 
 #### Follow the steps:
 * You need to clone the project into your desktop through the command. -> `git clone + https://github.com/FreeSoulsDotBat/django-rest-framework.git`;
@@ -18,3 +18,6 @@ The urls of the project are:
 * '/' -> The one view only app showing all employees registered
 
 
+#### Last concerns:
+
+* As the project shouldn't go to production, the secret key stays there, but the good practice is to trust only in environment variables (with .env for example)
