@@ -38,4 +38,5 @@ The urls of the project are:
 
 #### Last concerns:
 
-* As the project shouldn't go to production, the secret key stays there, but the good practice is to trust only in environment variables (with .env for example)
+* As the project shouldn't go to production, the secret key stays there, but the good practice is to trust only in environment variables (with .env for example);
+* I maded the project using sqlite as it's a small project, for big project I recommend SQL.
